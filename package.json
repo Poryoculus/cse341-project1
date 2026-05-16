@@ -1,0 +1,21 @@
+{
+  "name": "cse341-project1",
+  "version": "1.0.0",
+  "description": "First Project for CSE341",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poryoculus/cse341-project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Poryoculus/cse341-project1/issues"
+  },
+  "homepage": "https://github.com/Poryoculus/cse341-project1#readme"
+}
