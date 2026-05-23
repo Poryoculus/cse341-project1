@@ -22,6 +22,7 @@ app.use((req, res, next) => {
   );
   next();
 });
+
 mongodb.initDb((err, mongodb) => {
   if (err) {
     console.log(err);
